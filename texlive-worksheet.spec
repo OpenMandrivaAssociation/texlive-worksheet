@@ -1,6 +1,6 @@
 Name:		texlive-worksheet
 Version:	48423
-Release:	1
+Release:	2
 Summary:	Easy creation of worksheets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/worksheet
