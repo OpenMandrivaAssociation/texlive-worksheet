@@ -3,7 +3,7 @@ Version:	48423
 Release:	2
 Summary:	Easy creation of worksheets
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/worksheet
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/worksheet
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/worksheet.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/worksheet.doc.r%{version}.tar.xz
